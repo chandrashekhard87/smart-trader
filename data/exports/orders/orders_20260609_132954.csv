@@ -1,0 +1,1 @@
+id,order_id,symbol,side,quantity,entry_price,stop_loss,target,status,exit_price,pnl,created_at,updated_at,closed_at,option_entry_price,option_exit_price,underlying_price

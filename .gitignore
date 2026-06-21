@@ -1,1 +1,15 @@
-.vscode
+.env
+access_token.txt
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.DS_Store
+trades_history.json
+trading_summary.json
+backtest_results.json
+*.log
